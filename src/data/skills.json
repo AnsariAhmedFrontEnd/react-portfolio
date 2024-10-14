@@ -8,39 +8,26 @@
     "imageSrc": "skills/css.png"
   },
   {
-<<<<<<< HEAD
     "title": "JavaScript",
     "imageSrc": "skills/javascript.png"
   },
   {
-=======
->>>>>>> origin/main
     "title": "React",
     "imageSrc": "skills/react.png"
   },
   {
-<<<<<<< HEAD
     "title": "Node.js",
     "imageSrc": "skills/node.png"
   },
   {
     "title": "Express",
     "imageSrc": "skills/express.png"
-=======
-    "title": "Node",
-    "imageSrc": "skills/node.png"
-  },
-  {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
->>>>>>> origin/main
   },
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
-<<<<<<< HEAD
     "title": "Git",
     "imageSrc": "skills/git.png"
   },
@@ -51,9 +38,5 @@
   {
     "title": "Bootstrap",
     "imageSrc": "skills/bootstrap.png"
-=======
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
->>>>>>> origin/main
   }
 ]
