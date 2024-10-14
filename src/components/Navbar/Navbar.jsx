@@ -28,11 +28,7 @@ const Navbar = () => {
             <a href="#about">About</a>
           </li>
           <li>
-<<<<<<< HEAD
             <a href="#experiance">Skills</a>
-=======
-            <a href="#experiance">Experiance</a>
->>>>>>> origin/main
           </li>
           <li>
             <a href="#projects">Projects</a>

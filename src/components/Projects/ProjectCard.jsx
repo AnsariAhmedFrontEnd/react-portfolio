@@ -1,10 +1,7 @@
 import { getImageUrl } from "../../utils";
 import styles from './ProjectCard.module.css';
 const ProjectCard = ({project : {imageSrc, title, description, demo, source, skills}}) => {
-<<<<<<< HEAD
   console.log(getImageUrl(imageSrc))
-=======
->>>>>>> origin/main
     return (
         <div className={styles.container}>
               <img src={getImageUrl(imageSrc)} alt={`Image of ${title}`}  className={styles.image}/>

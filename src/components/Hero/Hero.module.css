@@ -36,11 +36,8 @@
     font-size: 30px;
     font-family: var(--font-roboto);
     margin-bottom: 52px;
-<<<<<<< HEAD
     line-height: 2.9rem;
     width: 80%;
-=======
->>>>>>> origin/main
 }
 
 .contactBtn {
@@ -57,10 +54,7 @@
 .heroImg {
     width: 50%;
     z-index: 1;
-<<<<<<< HEAD
     border-radius: 100%;
-=======
->>>>>>> origin/main
 
     animation-name:floating;
     animation-duration: 3s;
