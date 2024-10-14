@@ -5,10 +5,17 @@ import skills from "../../data/skills.json";
 import history from "../../data/history.json";
 import { getImageUrl } from "../../utils";
 
+<<<<<<< HEAD
 const Experience = () => {
   return (
     <section className={styles.container} id="experiance">
       <h2 className={styles.title}>Skills</h2>
+=======
+ const Experience = () => {
+  return (
+    <section className={styles.container} id="experience">
+      <h2 className={styles.title}>Experience</h2>
+>>>>>>> origin/main
       <div className={styles.content}>
         <div className={styles.skills}>
           {skills.map((skill, id) => {
@@ -22,8 +29,12 @@ const Experience = () => {
             );
           })}
         </div>
+<<<<<<< HEAD
       </div>
       {/* <ul className={styles.history}>
+=======
+        <ul className={styles.history}>
+>>>>>>> origin/main
           {history.map((historyItem, id) => {
             return (
               <li key={id} className={styles.historyItem}>
@@ -43,9 +54,18 @@ const Experience = () => {
               </li>
             );
           })}
+<<<<<<< HEAD
         </ul> */}
+=======
+        </ul>
+      </div>
+>>>>>>> origin/main
     </section>
   );
 };
 
+<<<<<<< HEAD
 export default Experience;
+=======
+export default Experience;
+>>>>>>> origin/main

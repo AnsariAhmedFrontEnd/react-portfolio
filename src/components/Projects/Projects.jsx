@@ -6,7 +6,11 @@ import ProjectCard from "./ProjectCard";
 
 const Projects = () => {
   return (
+<<<<<<< HEAD
     <section className={styles.container} id="projects">
+=======
+    <section className={styles.container}>
+>>>>>>> origin/main
       <h2 className={styles.title}>Projects</h2>
       <div className={styles.projects}>
         {projects.map((project, id) => {

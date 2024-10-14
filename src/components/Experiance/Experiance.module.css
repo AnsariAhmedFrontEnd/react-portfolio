@@ -23,7 +23,11 @@
 }
 
 .skills {
+<<<<<<< HEAD
   width: 60%;
+=======
+  width: 45%;
+>>>>>>> origin/main
   display: flex;
   flex-wrap: wrap;
   gap: 37px;
