@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Zerodha Clone: Full-Stack Trading App",
+    "imageSrc": "projects/zerodha.png",
+    "description": "A trading platform clone built to simulate stock market functionalities. Features include real-time stock data, user authentication, and portfolio management.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://mern-zerodha.netlify.app/",
+    "source": "https://github.com/AnsariAhmedFrontEnd/Zerodha-clone"
+  },
+  {
+    "title": "Expense Tracker App",
+    "imageSrc": "projects/expense.PNG",
+    "description": "A simple web app to track and categorize daily expenses. Users can add, view, edit and delete transactions with real-time updates.",
+    "skills": ["React", "Firebase"],
+    "demo": "https://spend-smartly.netlify.app/",
+    "source": "https://github.com/AnsariAhmedFrontEnd/react-expense-tracker"
+  },
+  {
+    "title": "Mailbox Client",
+    "imageSrc": "projects/mail-box.PNG",
+    "description": "A web-based email client that allows users to send, receive, and manage emails with real-time updates and authentication.",
+    "skills": ["React", "Firebase"],
+    "demo": "https://sharp-mail.netlify.app/",
+    "source": "https://github.com/AnsariAhmedFrontEnd/mail-box"
+  }
+]
