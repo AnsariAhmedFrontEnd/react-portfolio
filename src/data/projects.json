@@ -8,6 +8,14 @@
     "source": "https://github.com/AnsariAhmedFrontEnd/Zerodha-clone"
   },
   {
+    "title": "Naye Pankh - Fundraising Portal for Interns (MERN Stack)",
+    "imageSrc": "projects/naye-pankh.PNG",
+    "description": "A secure and efficient platform where organizations create fundraising campaigns, and interns connect with potential donors for financial support.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://naye-pankh.netlify.app/",
+    "source": "https://github.com/AnsariAhmedFrontEnd/naye-pankh"
+  },
+  {
     "title": "Expense Tracker App",
     "imageSrc": "projects/expense.PNG",
     "description": "A simple web app to track and categorize daily expenses. Users can add, view, edit and delete transactions with real-time updates.",
