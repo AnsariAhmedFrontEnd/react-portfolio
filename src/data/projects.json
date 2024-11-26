@@ -8,6 +8,22 @@
     "source": "https://github.com/AnsariAhmedFrontEnd/Zerodha-clone"
   },
   {
+    "title": "GitHub Clone: MERN Stack Application",
+    "imageSrc": "projects/github.JPG",
+    "description": "A web application replicating core functionalities of GitHub, designed to simulate version control operations and repository management.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.youtube.com/watch?v=HNTu1uzg0LI",
+    "source": "https://github.com/AnsariAhmedFrontEnd/apna-github"
+  },
+  {
+    "title": "AI-Integrated Calorie Counter",
+    "imageSrc": "projects/ai-calorie.JPG",
+    "description": "A full-stack web application that helps users track daily calorie intake and provides dietary recommendations based on user input and calorie data.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://ai-calorie-counter.netlify.app/",
+    "source": "https://github.com/AnsariAhmedFrontEnd/ai-calorie-counter"
+  },
+  {
     "title": "Naye Pankh - Fundraising Portal for Interns (MERN Stack)",
     "imageSrc": "projects/naye-pankh.PNG",
     "description": "A secure and efficient platform where organizations create fundraising campaigns, and interns connect with potential donors for financial support.",
